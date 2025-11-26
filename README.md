@@ -32,6 +32,9 @@
 </p>
 
 ---
+<p align="center">
+  <img src="https://preview.redd.it/can-you-guys-give-me-batman-moments-where-batman-is-making-v0-p8hvf6qjzkbb1.jpg?width=640&crop=smart&auto=webp&s=7dd020503bb1475199809270aca56772eac880cc" width="600"/>
+</p>
 
 ## **Tech Stack**
 <p align="left">
