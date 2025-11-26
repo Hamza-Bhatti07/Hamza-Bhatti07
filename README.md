@@ -42,7 +42,6 @@
 
 ## **GitHub Stats**
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Hamza-Bhatti07&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="160"/>
   <img src="https://streak-stats.demolab.com?user=Hamza-Bhatti07&theme=tokyonight&hide_border=true" height="160"/>
 </p>
 
