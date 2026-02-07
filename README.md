@@ -4,7 +4,7 @@
 </p>
 
 <h1 align="center"> Hamza Iftikhar Bhatti </h1>
-<h3 align="center">Final Year CS @ FAST NUCES | NLP • Cybersecurity </h3>
+<h3 align="center">Final Year CS @ FAST NUCES | AI/ML • Cybersecurity </h3>
 
 ---
 
