@@ -13,8 +13,8 @@
 
 -  Working on my **IoMT Cyber-Resilience focused RnD FYP**  
   (Will share soon :P)    
--  Learning & experimenting in **Cybersecurity, NLP**
--  Currently working on: **NLP projects, Three.js based portfolio and some projects that have been sitting at the back of my head for longer then they should have T_T**
+-  Learning & experimenting in **Cybersecurity, NLP/Gen AI**
+-  Currently working on: **NLP/Gen AI projects, Three.js based portfolio and some projects that have been sitting at the back of my head for longer then they should have T_T**
 
 ---
 
@@ -50,9 +50,4 @@
 
 
 ---
-
-## **Trophies**
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Hamza-Bhatti07&theme=algolia&no-frame=true&row=1&column=7" />
-</p>
 
